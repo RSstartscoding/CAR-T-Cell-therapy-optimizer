@@ -1,5 +1,4 @@
-# CAR-T-Cell-therapy-optimizer
- Implemented RDA-PDE solver (FDM + RK4) simulating tumor-T-cell chemotaxis; generated 500-simulation dataset by sweeping 8 treatment parameters Trained Gradient Boosting regressor (R²=0.86); identified optimal strategy — dose=3.74, central injection, timing=1.2 days, χ=2.36 — achieving 92% tumor eradication
+
 # CAR-T Cell Therapy Optimizer
 
 Extended the Modelling interstellar infection and cellular cures mathematical model to optimize 
